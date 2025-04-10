@@ -105,7 +105,7 @@ eql repl
 ```toml
 # Cargo.toml
 [dependencies]
-eql_core = "0.1"
+eql_core = "0.1.12"
 ```
 
 ```rust
